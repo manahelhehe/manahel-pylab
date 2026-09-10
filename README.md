@@ -2,7 +2,7 @@
 
 ## Project Description
 
-**Shirt Designing Using Fractals** is a Python-based generative design
+**Shirt Designing Using Fractals** is a Python generative design
 project that uses fractal mathematics to create an organic, flower-like
 pattern that can be used as inspiration for shirt and textile designs.
 
@@ -165,23 +165,7 @@ The current implementation uses:
   Background                       White
   Main palette              Pink / white
 
-The number of generated points can be changed in:
 
-``` python
-run_chaos_game(n_points=600_000, skip=20, seed=7)
-```
-
-The symmetry can be changed using:
-
-``` python
-N_SYM = 5
-```
-
-and the output dimensions can be changed using:
-
-``` python
-render(xs, ys, cs, width=500, height=900)
-```
 
 ## Project Structure
 
@@ -196,7 +180,7 @@ Shirt-Designing-Using-Fractals/
 ## Student Information
 
 **Student Name:** Manahel Zulqarnain\
-**Registration Number:** `[Enter Registration Number]`
+**Registration Number:** `540650`
 
 ## Conclusion
 
